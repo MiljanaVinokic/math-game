@@ -1,0 +1,55 @@
+#number1 {
+	font-size: 45px; 
+	font-weight: bold; 
+	border:5px solid gray;
+	padding: 50px;
+	border-radius: 6px;
+}
+
+#number2 {
+	font-size: 45px; 
+	font-weight: bold; 
+	border:5px solid gray;
+	padding: 50px;
+	border-radius: 6px;
+}
+
+#add {
+	font-size: 45px;
+	font-weight: bold;
+}
+
+#eq {
+	font-size: 45px;
+	font-weight: bold;
+}
+
+#input {
+	padding: 10px;
+	border: 2px solid #14d2d5;
+
+}
+
+body {
+	background-color: #001f3f;
+}
+
+#wrapper {
+	width: 750px;
+	height: 350px;
+	background: rgb(39,48,95);
+	background: radial-gradient(circle, rgba(39,48,95,1) 33%, rgba(56,84,141,1) 100%);
+	margin-top: 120px;
+	margin-left: 370px;
+	border-radius: 10px;
+}
+
+#btn {
+	background-color: gray;
+	color: #fff;
+	padding: 12px;
+	border-style: none;
+	font-weight: bold;
+	width: 100px;
+	border-radius: 6px;
+}
